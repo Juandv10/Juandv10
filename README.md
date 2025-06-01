@@ -16,6 +16,7 @@ I'm a data science enthusiast passionate about solving complex problems through 
 ## 📂 Featured (Future) Projects
 
 - 🔍 I’ll be updating this page with side projects, model interpretation, and insights on topics I find interesting — like retail, stocks, sports, music, and more.
+- [M5 Forecasting EDA - Models](https://github.com/Juandv10/M5Forecasting)
 
 ## 🛠️ Tech Stack
 
