@@ -24,7 +24,7 @@ I'm a data science enthusiast passionate about solving complex problems through 
 | Python, SQL, R, DAX  | pandas, NumPy, regex, scikit-learn, TensorFlow | matplotlib, seaborn, Power BI, Folium |
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/juan-díaz-valdez-b28a1122b)
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-d%C3%ADaz-valdez-b28a1122b/)
 
 
 
